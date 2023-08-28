@@ -7,9 +7,8 @@
 ### Programming Language and Tech Stack
 - Languages: php, Javascript, Java
 - Tech Stack: laravel, mySql, Docker, git, spring boot, spring, Flutter
-
 ### Links
-- Resume: https://drive.google.com/file/d/1jTdEcVeLvtID5iDSlFKpIDhwFTvi_SyM/view?usp=sharing
+- Resume:https://drive.google.com/file/d/1jTdEcVeLvtID5iDSlFKpIDhwFTvi_SyM/view?usp=sharing
 
 - LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
 
